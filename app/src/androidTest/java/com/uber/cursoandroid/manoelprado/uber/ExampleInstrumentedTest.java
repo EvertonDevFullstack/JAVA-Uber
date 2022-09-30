@@ -1,4 +1,4 @@
-package com.uber.cursoandroid.manoelprado.uber;
+package com.uber.atividade.evertonreinaldo.uber;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
